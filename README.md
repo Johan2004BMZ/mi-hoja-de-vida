@@ -1,7 +1,7 @@
 # mi-hoja-de-vida
 
-**Nombre completo:** Ana Torres
-**Correo electrónico:** ana.torres@correo.com
+**Nombre completo:** Johan Santiago Bohorquez Mendez
+**Correo electrónico:** Sanjohan2004@gmail.com
 ## Formación académica
 - Bachiller Academico
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
